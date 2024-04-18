@@ -1,0 +1,10 @@
+pyjwt
+python-dotenv
+streamlit
+streamlit-ace
+requests
+langchain
+pymupdf
+markdown
+langchain-community
+unstructured[xlsx,docx,pptx,xlsx]
